@@ -23,3 +23,14 @@
 
 # Servers
 - [Great Hacking Official](https://discord.gg/ZSe5M3jGeN)
+
+# DISCLAIMER
+`
+We are not responsible for crashing your game. We do not encourage hacking, we're creating hacks for fun and helping you get a better score on SRB2. They do not work on multiplayer.
+`
+
+# Descriptions
+<details>
+  <summary>SRB2 Editor</summary>
+  <b></b>
+  </details>
