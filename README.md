@@ -1,4 +1,3 @@
-
 # Satus Help
 ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) :: `Working`
 
@@ -7,7 +6,10 @@
 # Satus
 
 **[SRB2 Editor](https://github.com/Great-Hacking/SRB2-Editor):** ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) 
-**[Lapide Menu](https://github.com/Great-Lab/SRB2-Hacking/releases/latest/download/Lapide.Menu.V3.CETRAINER):** ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) 
+
+**[Lapide Menu](https://github.com/Great-Lab/SRB2-Hacking/releases/download/2.5.1/Lapide.Menu.V3.CETRAINER):** ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) 
+
+**[Force Modifier](https://github.com/Great-Lab/SRB2-Hacking/releases/download/0.0.1FM/Force.Modifier.zip):** ![#c5f015](https://via.placeholder.com/19/green/000000?text=+) 
 
 # Coming Up Hacks
 ``ECHClient`` --- Not a hack, but it can hack if you edit values. For the pro(free) version, you can change rings, speed and lives. To get the pro version, you have to win it or contact me. You would be approved or disaproved.
